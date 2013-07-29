@@ -20,17 +20,17 @@ You can add to the model a CV or what that you want with paperclip :
     
     
     add_attachment :job_applications, :cv
-        
 
-TODO: Write usage instructions here
+Just remember to include paperclip in your app :
+
+    gem 'paperclip'
+    
+        
 
 ## Contributing
 
 1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
+2. Create your feature branch (`git checkout -b "your branch name"`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
-=======
-submitter
-=========
+4. Push to the branch (`git push origin "your branch name"`)
+5. Ask for a pull request
