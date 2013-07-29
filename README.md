@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Submitter
-
-TODO: Write a gem description
 
 ## Installation
 
@@ -18,6 +15,12 @@ Or install it yourself as:
     $ gem install submitter
 
 ## Usage
+You can add to the model a CV or what that you want with paperclip :
+    
+    
+    
+    add_attachment :job_applications, :cv
+        
 
 TODO: Write usage instructions here
 
