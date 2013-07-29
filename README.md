@@ -34,3 +34,6 @@ Just remember to include paperclip in your app :
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin "your branch name"`)
 5. Ask for a pull request
+
+##Created by :
+######Ori wininger
