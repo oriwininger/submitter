@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Submitter
 
 TODO: Write a gem description
@@ -27,3 +28,7 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+submitter
+=========
+>>>>>>> ab126f5f953f8b293958ed83b6826ea2602addd3
